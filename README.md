@@ -1,9 +1,10 @@
 ### 반가워요! 👋
-
+미숙하여 계속 노력하고있습니다!
+잘 부탁드리겟습니다!
 <!--
 **tryeet/tryeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
