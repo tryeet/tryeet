@@ -6,9 +6,6 @@
 ### 공부하고 있는것
 <img src="https://img.shields.io/badge/-android studio-green">, <img src="https://img.shields.io/badge/-visual studio-purple">, <img src="https://img.shields.io/badge/-java-orange">를 공부중입니다!
 
-### EMAIL
-
-kmhoo202@naver.com 으로 메일을 보내주시면 되겟습니다!
 <!--
 **tryeet/tryeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
