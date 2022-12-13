@@ -4,8 +4,7 @@
 잘 부탁드리겟습니다!
 
 ### 공부하고 있는것
-
-안드로이드 스튜디오랑, visual studio, java를 공부중입니다!
+<img src="https://img.shields.io/badge/-android studio-green">, <img src="https://img.shields.io/badge/-visual studio-purple">, <img src="https://img.shields.io/badge/-java-orange">를 공부중입니다!
 
 ### EMAIL
 
