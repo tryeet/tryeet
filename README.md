@@ -2,6 +2,14 @@
 계속 노력하고있습니다!
 
 잘 부탁드리겟습니다!
+
+### 공부하고 있는것
+
+안드로이드 스튜디오랑, 비쥬얼 코드등 넓게 공부중입니다!
+
+### 만약 저한테 연락하길 원하신다면
+
+kmhoo202@naver.com 으로 메일을 보내주시면 되겟습니다!
 <!--
 **tryeet/tryeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
